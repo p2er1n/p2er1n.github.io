@@ -1,0 +1,7 @@
+languageCode = 'en-us'
+title = "Peerin's Time"
+theme = 'smigle'
+
+[params]
+author = 'Peerin'
+subtitle = '书写碎片时光'
